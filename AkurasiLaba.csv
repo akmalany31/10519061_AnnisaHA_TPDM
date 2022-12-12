@@ -1,4 +1,0 @@
-,Classifieer,prediction,accuracy
-0,NB,MultinomialNB(),0.6948924731182796
-1,RF,"RandomForestClassifier(max_depth=5, n_estimators=70)",0.6720430107526881
-2,SVM,"SVC(decision_function_shape='ovo', kernel='linear')",0.7123655913978495
